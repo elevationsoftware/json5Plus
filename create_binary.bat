@@ -1,0 +1,1 @@
+python -m PyInstaller --clean --onefile --icon="icon.ico" --name "json5Plus" .\main.py
